@@ -1,5 +1,5 @@
 // base url of your backend
-const BASE_URL = "http://localhost:8080";
+const BASE_URL = "http://localhost:8081";
 
 // your API key
 const API_KEY = "myApiKey123";
